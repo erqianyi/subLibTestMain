@@ -1,0 +1,3 @@
+[submodule "src/commonLib"]
+	path = src/commonLib
+	url = https://github.com/erqianyi/subLibTest.git
