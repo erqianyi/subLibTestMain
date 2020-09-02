@@ -1,3 +1,3 @@
-import {main} from "./commonLib/testMain"
+const mainTest = require("./commonLib/testMain")
 console.log("主程序");
-main();
+mainTest();
