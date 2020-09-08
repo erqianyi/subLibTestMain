@@ -1,4 +1,4 @@
-/commonLib
+/src/commonLib
 # Logs
 logs
 *.log
