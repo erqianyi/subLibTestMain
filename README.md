@@ -5,4 +5,4 @@
 
 ### 测试
 
-  - [点击打开公共资源文档](./src/commonLib/README.md)
+  - [点击打开公共资源文档](https://github.com/erqianyi/subLibTest/README.md)
