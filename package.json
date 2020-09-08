@@ -1,0 +1,20 @@
+{
+  "name": "sublibtestmain",
+  "version": "1.0.0",
+  "description": "学习测试子仓库的主仓库",
+  "main": "index.js",
+  "scripts": {
+    "update": "git submodule update --remote",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erqianyi/subLibTestMain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erqianyi/subLibTestMain/issues"
+  },
+  "homepage": "https://github.com/erqianyi/subLibTestMain#readme"
+}
